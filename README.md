@@ -10,7 +10,7 @@ python <QuestionName>.py
 ```
 If you encountered `Class Already Defined` compilation problem in OJ, please remove `TreeNode`, `GraphNode` or etc. 
 ### Java
-Some algorithms in Python cannot pass the OJ due to OJ bugs; thus the alternative solutions in java in the exactly same algorithm are provided. To run in Java:
+Some algorithms in Python cannot pass the OJ due to OJ bugs, thus the alternative solutions in java in the exactly same algorithm are provided. To run in Java:
 ```bash
 cd LintCode/java/src/main/java
 javac <PackageName>/Solution.java
